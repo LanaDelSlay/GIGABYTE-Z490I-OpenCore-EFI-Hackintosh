@@ -17,7 +17,7 @@ fast boot time and reliable operation, without crashes.
 
 Everything except continuity, to make that work you require a special wireless card obtainable online. ( I have one it’s just doa)
 
-OnBoard ethernet works too - most likely will require [flashing] (https://github.com/5T33Z0/Gigabyte-Z490-Vision-G-Hackintosh-OpenCore/blob/main/I225-V_FIX.md#option-2-flashing-a-custom-firmware) the ethernet port’s firmware.
+OnBoard ethernet works too - most likely will require [flashing](https://github.com/5T33Z0/Gigabyte-Z490-Vision-G-Hackintosh-OpenCore/blob/main/I225-V_FIX.md#option-2-flashing-a-custom-firmware) the ethernet port’s firmware.
 
 OnBoard Wi-Fi wasn’t attempted, I will buy another continuity compatible 
 lan card for plug and play compatibility eventually. 
