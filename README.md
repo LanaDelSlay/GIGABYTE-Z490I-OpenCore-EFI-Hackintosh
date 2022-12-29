@@ -1,19 +1,18 @@
 # GIGABYTE Z490I OpenCore Ventura Hackintosh EFI
 
-OpenCore EFI bootloader used for booting macOS Ventura on custom hardware, 
-fast boot time and reliable operation, without crashes.
+#### OpenCore EFI bootloader used for booting macOS Ventura on custom hardware, fast boot time and reliable operation, without crashes.
 
 ## Description
 
-### This bootloader was designed for my build which consists of the following:
+### This bootloader was designed for these specs:
 
-- GIGABYTE Z490I
-- i7-10700K (Comet Lake)
-- Radeon RX 580
-- 32GB RAM
-- 1TB SATA SSD
+- ##### **GIGABYTE Z490I**
+- ##### **i7-10700K** (Comet Lake)
+- ##### **Radeon RX 580**
+- ##### **32GB RAM**
+- ##### **1TB SATA SSD**
 
-## What Works?
+### What Works?
 
 Everything except continuity, to make that work you require a special wireless card obtainable online. ( I have one it’s just doa)
 
